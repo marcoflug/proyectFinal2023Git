@@ -1,0 +1,17 @@
+.card-group{
+    margin-top: 20px;
+    margin-block: 20px;
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.separador { 
+    margin-left: 15px;
+    margin-right: 15px;
+   }
+
+   .cardo-gorup-first{
+    margin-top: 50px;;
+   }
