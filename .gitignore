@@ -1,6 +1,11 @@
+#archivos de base de datos
+*.accdb
 
 # Ignora los archivos relacionados a API keys
 *.env
 
 # Ignora archivos de configuración SASS
 *.sass-cache
+
+# archivos de powerpoint
+*.pptx
