@@ -1,0 +1,21 @@
+.card-group{
+    margin-top: 20px;
+    margin-block: 20px;
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.separador { 
+    margin-left: 25px;
+    margin-right: 25px;
+   }
+
+   .cardo-gorup-first{
+    margin-top: 50px;;
+   }
+.carusel{ 
+    background-color: rgb(53, 92, 125);
+    color: aqua;
+}
